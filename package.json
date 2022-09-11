@@ -1,0 +1,22 @@
+{
+    "name": "my-extensions-dark",
+    "displayName": "My Extension",
+    "description": "A extension which is created by myself during the workshop !",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "publisher": "MSFTDev",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "My Extension",
+                "uiTheme": "vs-dark",
+                "path": "./themes/My Extension-color-theme.json"
+            }
+        ]
+    }
+}
