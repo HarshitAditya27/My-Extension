@@ -49,9 +49,11 @@ Hurray 🥳, you successfully opened the extension in your local machine 🎉.
   
 - **<a href="https://code.visualstudio.com/api/get-started/your-first-extension">Visual Studio Code Documentation</a>**. 
 
-## Loved the project 💖? 
-  
+## Loved the project 💖?
+
   If you found the project intresting then please do give this project a star ⭐. 
+   ![LevelBeta](https://user-images.githubusercontent.com/71604531/189519922-718f5c65-daf5-42f6-821e-cba7f145508d.png)
+  
   <br> <br> <br>
    <p align="center" width="100%">
    Made with 💖 by Harshit Aditya   
